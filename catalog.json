@@ -1,0 +1,24 @@
+﻿{
+    "catalogName":  "OffgamerPC Downloadable Fixes",
+    "version":  "2026.04.20.140808",
+    "generatedAt":  "2026-04-20T19:08:08Z",
+    "fixes":  [
+                  {
+                      "id":  "rdr2-es-latam",
+                      "title":  "Traduccion Espanol LATAM",
+                      "gameName":  "Red Dead Redemption 2",
+                      "category":  "translation",
+                      "description":  "Ejemplo de metadata para un fix descargable publicado por OffgamerPC.",
+                      "version":  "1.0.0",
+                      "steamAppId":  "1174180",
+                      "downloadUrl":  "packages/rdr2-es-latam-1.0.0.zip",
+                      "sha256":  "73BEB3EE7D19A7FF9CF6F807FC9DB630B8B7897B6C5096FEF43157243EF6571B",
+                      "packageFormat":  "zip",
+                      "installSubdirectory":  "",
+                      "requiredRelativePaths":  [
+                                                    "RDR2.exe",
+                                                    "x64"
+                                                ]
+                  }
+              ]
+}
